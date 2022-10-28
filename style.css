@@ -27,10 +27,11 @@ body {
 
 /* HEADER = PHOTO */
 #mainPhoto {
-  position: fixed;
+  position: fixed ;
+  object-fit: fill;
   z-index: 1;
-  top: 35%;
-  left: 4%;
+  /* top: 35%;
+  left: 4%; */
 }
 
 .hidden {
